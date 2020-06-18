@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b0a81590-c06c-406b-8b0d-ac2dbaa773fa" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZyPEU61anYTHz3FJY0HwQm2WmU" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="findjar.last.used.dir" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../carlin_fuwuduan/jeecg-boot" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.097751714" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RunManager" selected="Application.EncryptOrDecryptUtil">
+    <configuration name="DHUtils" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.DHUtils" />
+      <module name="testALL" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EncryptOrDecryptUtil" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.EncryptOrDecryptUtil" />
+      <module name="testALL" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
+      <module name="testALL" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.DHUtils" />
+      <item itemvalue="Application.EncryptOrDecryptUtil" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.EncryptOrDecryptUtil" />
+        <item itemvalue="Application.DHUtils" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b0a81590-c06c-406b-8b0d-ac2dbaa773fa" name="Default Changelist" comment="" />
+      <created>1585808248677</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585808248677</updated>
+      <workItem from="1585808260010" duration="1274000" />
+      <workItem from="1585818325986" duration="8351000" />
+      <workItem from="1585879716657" duration="7178000" />
+      <workItem from="1586222727792" duration="9327000" />
+      <workItem from="1586333596150" duration="654000" />
+      <workItem from="1586482223035" duration="656000" />
+      <workItem from="1586662454288" duration="1221000" />
+      <workItem from="1586741370619" duration="2308000" />
+      <workItem from="1586854178771" duration="14000" />
+      <workItem from="1586855238821" duration="1228000" />
+      <workItem from="1586949764108" duration="52000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="551" y="207" width="802" height="679" key="#HTTP_Proxy" timestamp="1585819036704">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="551" y="207" width="802" height="679" key="#HTTP_Proxy/0.0.1920.1040@0.0.1920.1040" timestamp="1585819036704" />
+    <state x="678" y="198" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585808809430">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="678" y="198" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1585808809430" />
+    <state x="957" y="333" width="517" height="416" key="EnvironmentVariablesDialog" timestamp="1585808798561">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="957" y="333" width="517" height="416" key="EnvironmentVariablesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1585808798561" />
+    <state x="743" y="264" width="639" height="513" key="FileChooserDialogImpl" timestamp="1586949814920">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="743" y="264" width="639" height="513" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1586949814920" />
+    <state width="1876" height="42" key="GridCell.Tab.0.bottom" timestamp="1586266994146">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="42" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1586266994146" />
+    <state width="1876" height="42" key="GridCell.Tab.0.center" timestamp="1586266994145">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="42" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1586266994145" />
+    <state width="1876" height="42" key="GridCell.Tab.0.left" timestamp="1586266994145">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="42" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1586266994145" />
+    <state width="1876" height="42" key="GridCell.Tab.0.right" timestamp="1586266994146">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="42" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1586266994146" />
+    <state width="1876" height="42" key="GridCell.Tab.1.bottom" timestamp="1586266994149">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="42" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1586266994149" />
+    <state width="1876" height="42" key="GridCell.Tab.1.center" timestamp="1586266994148">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="42" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1586266994148" />
+    <state width="1876" height="42" key="GridCell.Tab.1.left" timestamp="1586266994148">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="42" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1586266994148" />
+    <state width="1876" height="42" key="GridCell.Tab.1.right" timestamp="1586266994148">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="42" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1586266994148" />
+    <state x="703" y="117" width="1026" height="847" key="SettingsEditor" timestamp="1585828090781">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="703" y="117" width="1026" height="847" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1585828090781" />
+    <state x="643" y="347" key="com.intellij.ide.util.TipDialog" timestamp="1585808271381">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="643" y="347" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1585808271381" />
+    <state x="934" y="437" width="555" height="208" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1585823728164">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="934" y="437" width="555" height="208" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1920.1040@0.0.1920.1040" timestamp="1585823728164" />
+    <state x="707" y="188" width="960" height="744" key="find.popup" timestamp="1586265269828">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="707" y="188" width="960" height="744" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1586265269828" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/EncryptOrDecryptUtil.java</url>
+          <line>111</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/EncryptOrDecryptUtil.java</url>
+          <line>113</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/EncryptOrDecryptUtil.java</url>
+          <line>251</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/EncryptOrDecryptUtil.java</url>
+          <line>253</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
